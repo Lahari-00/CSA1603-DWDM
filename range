@@ -1,0 +1,5 @@
+names<-c("ram","syam","kumar")
+age<-c(23,24,25)
+marks<-c(88,78,25)
+v1<-range(age)
+v1
