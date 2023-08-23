@@ -4,8 +4,7 @@ non_veg<-c(3)
 if(veg<non_veg)
 {
   print("non_veg count is greater")
-}
-if(veg>non_veg)
+}else
 {
   print("veg count is greater")
 }
